@@ -1,2 +1,2 @@
-# Dashboard-project
-I have created a responsive admin dashboard using a HTML and CSS.
+# RESPONSIVE ADMIN DASHBOARD
+- Created a responsive admin dashboard using HTML and CSS 
